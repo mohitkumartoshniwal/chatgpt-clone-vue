@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.7.1",
+    "openai": "^4.24.1",
     "vue": "^3.3.11"
   },
   "devDependencies": {
